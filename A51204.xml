@@ -1,0 +1,399 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Magistrates monitor, or, Several considerations &amp; observations upon the Act against seditious conventicles humbly offered to the serious consideration of all judges, justices of the peace and other inferiour officers concern'd in the prosecution of Protestant dissenters and submitted to the judgment of all conforming and nonconforming Protestants.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1682</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 48 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A51204</idno>
+            <idno type="STC">Wing M252</idno>
+            <idno type="STC">ESTC R26791</idno>
+            <idno type="EEBO-CITATION">09542934</idno>
+            <idno type="OCLC">ocm 09542934</idno>
+            <idno type="VID">43571</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A51204)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 43571)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1335:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Magistrates monitor, or, Several considerations &amp; observations upon the Act against seditious conventicles humbly offered to the serious consideration of all judges, justices of the peace and other inferiour officers concern'd in the prosecution of Protestant dissenters and submitted to the judgment of all conforming and nonconforming Protestants.</title>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Richard Janeway,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1682.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Conventicle act. --  1670.</term>
+               <term>Freedom of religion --  England.</term>
+               <term>Dissenters, Religious --  Legal status, laws, etc. --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-10</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2010-10</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:43571:1"/>
+            <pb n="1" facs="tcp:43571:1"/>
+            <head>The Magiſtrates Monitor: OR, Several Conſiderations &amp; Obſervations Upon the ACT againſt SEDITIOUS CONVENTICLES.</head>
+            <head type="sub">Humbly offered to the ſerious Conſideration of all Judges, Juſtices of the Peace, and other inferiour Officers, concern'd in the Proſecution of Proteſtant Diſſenters.</head>
+            <head type="sub">And ſubmitted to the Judgment of all Conforming and Nonconforming PROTESTANTS</head>
+            <p>FOraſmuch as the aforeſaid Act, hath been, and ſtill is, vigorouſly Proſecuted againſt the Proteſtant Diſſenters, to the very great da<g ref="char:EOLhyphen"/>mage of many good Families, who are His Majeſties peaceable Sub<g ref="char:EOLhyphen"/>jects, of whom it may be truly ſaid, There is no matters againſt them, except it be concerning the Law of their God, as it was ſaid heretofore concerning <hi>Daniel.</hi>
+            </p>
+            <p>Therefore in order to a better underſtanding of the aforeſaid Act, let the ſeveral particulars thereof be warily and ſoberly conſidered, with ſome Ob<g ref="char:EOLhyphen"/>ſervations upon it.</p>
+            <p>
+               <pb n="2" facs="tcp:43571:2" rendition="simple:additions"/>Firſt, Conſider the Title of the ſaid Act, which is called. An <hi>Act to prevent and ſuppreſs Seditious Conventicles.</hi> Now it is well known that Titles of Acts are as keys to open the ſaid Acts, and by the Title of the aforeſaid Act it do<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> plainly appear, that any Aſſembly or every gathering together of People, is not intended by the King and Parliament, but ſuch Aſſembly as in expreſs words is mentioned, <hi>viz. Seditious Conventicles,</hi> and therefore whoſoever ſtretches the Law beyond the expreſs words thereof agreable to ſound Reaſon will not only abuſe His Majeſties Subjects, but the Law alſo, and inſtead of looking on the Law as a rule to walk by, make it an Engine of Ruine; therefore let theſe words, <hi>Seditious Conventicles,</hi> be well inquired into, leaſt they be ap<g ref="char:EOLhyphen"/>plyed unto ſuch Meetings of His Majeſties Subjects as are not guilty thereof, eſpecially conſidering that in Ages paſt, ſuch have been charged with Sediti<g ref="char:EOLhyphen"/>on, when they were innocent of ſuch a Crime, as may be ſeen in the Holy Scriptures; when the <hi>Jews</hi> went about to build the Walls of <hi>Jeruſalem,</hi> and the Houſe of their God, <hi>Rehum</hi> the Chancellor and <hi>Shimſhai</hi> the Scribe (or Secretary) wrot to the great King <hi>Artaxerxes,</hi> charging them with Rebellion and Sedition, and they called <hi>Jeruſalem</hi> the Rebellious and bad City, ſee <hi>Ezra</hi> 4. 9, 12, 15. And the bleſſed Apoſtle <hi>Paul,</hi> when he ſtood before moſt noble <hi>Faelix,</hi> a certain Orator named <hi>Tertullus</hi> vehemently accuſed <hi>Paul</hi> that he was a peſtilent Fellow and a mover of Sedition, pray ſee <hi>Acts</hi> 24. 1, 5. Whereas <hi>Paul</hi> did but Preach the way of Salvation to any number of People that would Aſſemble together and hear the Bleſſed Doctrine of the Goſpel; and this is the practiſe that the Diſſenting Proteſtants deſire to follow, and therefore let it be ſoberly inquired into,</p>
+            <p>1 Whether any number of people quietly and ſolemnly Aſſembled toge<g ref="char:EOLhyphen"/>ther to Preach and hear Salvation by the bleſſed Merits of Chriſt, and a holy Converſation according to the Holy Scriptures, can be indeed and in truth a Seditious Conventicle.</p>
+            <p>2 Whether the aforeſaid matters (<hi>viz.</hi> Preaching and hearing of Salvati<g ref="char:EOLhyphen"/>on by the bleſſed Merits of Chriſt, and a holy Converſation according to the Holy Scriptures) be not the conſtant practice of the Proteſtant Diſſenters in all their Meetings? if any ſhould ſay they cannot tell whether this be their practiſe, becauſe they do not go to any of their Meetings, let ſuch take heed they do not lay other things to their charge, they being ignorant of their Meetings: and let ſuch as daily attend their Meetings be witneſs of the truth of theſe things either for them, or againſt them as they will anſwer it before the God of Heaven and Earth.</p>
+            <p>And therefore from the Title of this Act, theſe things being conſidered, theſe Obſervations are humbly propoſed:</p>
+            <p>
+               <hi>Obſerv.</hi> 1. That ſuch Meetings of People as have no ſeditious ſpeeches nor ſeditious practices, are not Seditious Conventicles.</p>
+            <p>
+               <hi>Obſerv.</hi> 2. That Proteſtant Diſſenters, Promoting the Proteſtant Religi<g ref="char:EOLhyphen"/>on
+<pb n="3" facs="tcp:43571:2"/>
+in their Meetings, (<hi>viz.</hi> Faith in a Crucified Chriſt, Repentance for Sin a<g ref="char:EOLhyphen"/>gainſt God, and a godly Life in this World) ought not to be charged with Seditious Conventicles.</p>
+            <p>
+               <hi>Obſerv.</hi> 3. That ſuch as cannot be proved guilty of Seditious Meetings, ought not to be Proſecuted by the aforeſaid Act.</p>
+            <p>Secondly, Conſider the good deſign of the aforeſaid Act, and that is, <hi>To provide Remedy againſt the growing and dangerous practices of</hi> SEDITIOUS <hi>Sectaries, and other</hi> DISLOYAL <hi>Perſons, who under pretence of Tender Conſcien<g ref="char:EOLhyphen"/>ces have or may at their Meetings contrive Inſurrections, page</hi> 1.</p>
+            <p>From this part of the Act, theſe things are to be obſerved:</p>
+            <p>
+               <hi>Obſerv.</hi> 1. That <hi>Seditious</hi> Sectaries and other <hi>Diſloyal Perſons,</hi> are the on<g ref="char:EOLhyphen"/>ly Offenders intended by this Act, and the Proteſtant Diſſenters do <hi>abhor to be ſuch,</hi> and can comfortably appeal to God and the King, they are not ſuch; and have given ſufficient Demonſtration of this matter, by a peaceable ſubje<g ref="char:EOLhyphen"/>ction to his Government in all parts of <hi>England,</hi> in paying all Taxes levyed by Law, and in a patient ſuffering for Conſcience Sake, being many times in Priſon, and have ſuffered the loſs of their Goods.</p>
+            <p>
+               <hi>Obſerv.</hi> 2. Furthermore it is declared by this Act, <hi>That the Perſons intend<g ref="char:EOLhyphen"/>ed as Offenders, are ſuch who at their Meetings</hi> CONTRIVE INSURRECTI<g ref="char:EOLhyphen"/>ONS; Now all the Proteſtant Diſſenters will with one voice ſay, Him or them that are thus guilty, let them ſuffer according to this or any o<g ref="char:EOLhyphen"/>ther Law; but it is denyed that they are at all guilty of this horrid Crime.</p>
+            <p>
+               <hi>Obſerv.</hi> 3. That as their Meetings are and have for a long time been pub<g ref="char:EOLhyphen"/>lick (and they deſire they may be ſo ſtill) they are not in a Capacity to Con<g ref="char:EOLhyphen"/>trive Inſurrections, for as much as all ſorts of people, Women as well as Men, Young People as well as Old, may come among them, and ſee and hear all that they do; and ſuch as do attend the Diſſenters Meetings day after day for a long time, who are not joyned with them in their particular fellowſhip, can witneſs for them that in all their Meetings they concern themſelves only with matters of <hi>godly inſtructions,</hi> and not at all with <hi>Diſloy<g ref="char:EOLhyphen"/>al Conſultations.</hi> Now if any ſhould be ſo diſingenious as to remember and re<g ref="char:EOLhyphen"/>peat that deſperate Inſurrection by <hi>Venner</hi>'s Party in the year—60. and ſo re<g ref="char:EOLhyphen"/>flect upon and Reproach the <hi>Proteſtant Diſſenters</hi> in general, it is humbly deſi<g ref="char:EOLhyphen"/>red they would Conſider theſe few following things: 1. That Action was done but by a few Men, about thirty was the whole number. 2. That Acti<g ref="char:EOLhyphen"/>on and practiſe was and is deteſted by the Proteſtant Diſſenters in all parts of <hi>England.</hi> 3. They that were guilty of that bloody Crime, have ſuffered the puniſhments of the Law. 4. Conſider that it is not fair dealing to charge a people in <hi>general,</hi> for the folly and madneſs of <hi>a few;</hi> it is well known that many of the Members of the Church of <hi>England</hi> are frequently guilty of hor<g ref="char:EOLhyphen"/>rid Crimes againſt the Peace of their Sovereign Lord the King, as alſo againſt the God of Heaven and Earth, <hi>viz.</hi> Robbing upon the Highways, breaking
+<pb n="4" facs="tcp:43571:3"/>
+open Houſes in Towns and Cities, and many horrid Murders, for which they are Hanged; but it would be very abominable to charge theſe abominable practices upon the Church of <hi>England;</hi> or ſuppoſe any Courtiers, Lawyers, Clergymen, or Magiſtrates, ſhould by the inſtigations of the Devil be led into high Crimes againſt the King and Government, it would be high injuſtice to charge or reflect upon all perſons of ſuch Ranks and Degrees, as being con<g ref="char:EOLhyphen"/>cerned with ſuch horrid Crimes: Therefore let men learn that bleſſed<g ref="char:punc">▪</g> Do<g ref="char:EOLhyphen"/>ctrine of Chriſt, <hi>viz. Do unto others as you would they ſhould do unto you.</hi>
+            </p>
+            <p>The third particular in the aforeſaid Act to be conſidered, <hi>viz.</hi> The Per<g ref="char:EOLhyphen"/>ſons who are to be puniſhed, and they are <hi>all perſons of the Age of Sixteen years, or upwards, being Subjects of this Realm, who ſhall be preſent at any Aſſem<g ref="char:EOLhyphen"/>bly, Conventicle, or Meeting, under Colour or Pretence of any exerciſe of Religion, in other manner than according to the Liturgy and practiſe of the Church of</hi> En<g ref="char:EOLhyphen"/>gland, <hi>they being in number five or more, beſides the Family or Houſhold; and if it be in a place where there is no Family inhabiting, then the number of five or more are deemed Offenders.</hi> From hence obſerve theſe things:</p>
+            <p>
+               <hi>Obſerv.</hi> 1. That ſuch whom this Act accounteth Offenders, are they which meet and aſſemble together <hi>under Col<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ur and</hi> PRETENCE <hi>of exerciſe of Re<g ref="char:EOLhyphen"/>ligion;</hi> which words ſuppoſeth that the exerciſe of Religion, is but <hi>pretend<g ref="char:EOLhyphen"/>ed,</hi> and ſome bad deſign is Reſolved, <hi>v<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>z. Contriving Inſurrect<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ons</hi> as afore<g ref="char:EOLhyphen"/>ſaid, and ſo to colour that deſign, make <hi>a ſhew of Religion,</hi> but this is not the practice of the <hi>Diſſenting Proteſtants,</hi> they do not deſign any other things then the <hi>Real Performance of Religion</hi> in ſincerity of heart, to promote god<g ref="char:EOLhyphen"/>lineſs among themſelves and others, that God may be ſerved, and they may be ſaved, according to the Precepts and Promiſes in the bleſſed Goſpel of Chriſt.</p>
+            <p>
+               <hi>Obſerv.</hi> 2. The Perſons accounted Offenders are ſuch as thus under pre<g ref="char:EOLhyphen"/>tence, exerciſe Religion in OTHER MANNER than according to the Li<g ref="char:EOLhyphen"/>turgy and Practice of the Church of <hi>England;</hi> now theſe words, in <hi>other man<g ref="char:EOLhyphen"/>ner,</hi> may be fairly underſtood ſuch exerciſe of Religion as is directly <hi>contrary</hi> and <hi>oppoſite</hi> to the Liturgy and Practice of the Church of <hi>England,</hi> in the main and ſubſtantial parts thereof; but that exerciſe of Religion which is agreeable to, and correſponds with the practiſe of the Church of <hi>England,</hi> in the main and ſubſtantial parts thereof, may be truly ſaid to be according to it; every ſmall <hi>variation</hi> muſt not be counted a <hi>Contradiction:</hi> For the Church of <hi>England</hi> doth vary in ſome things from each other in their exerciſe of Re<g ref="char:EOLhyphen"/>ligion; in ſome places they have Organs, and in ſome they have none, in ſome they have Singing Men and Singing Boys, and in otherplaces they have none.</p>
+            <p>
+               <hi>Obſerv.</hi> 3. That this Act doth not declare it to be a Crime if any Aſſem<g ref="char:EOLunhyphen"/>bly of people have not the Book called the Liturgy among them, or becauſe they do not Read it in their Aſſembly, but it doth require that the exerciſe of Religion among them ſhould be according to the Liturgy and practice
+<pb n="5" facs="tcp:43571:3"/>
+of the Church of England; and therefore let the exerciſe of Religion in the Church of <hi>England,</hi> and among the Proteſtant Diſſenters, be well conſidered and compared together, and then we ſhall ſee whether it be contradictious or<g ref="char:punc">▪</g> Harmnious in the main and ſubſtantial parts. 1. The exerciſe of Religion in the Liturgy, and as it is practiced in the Church of <hi>England,</hi> doth conſiſt of Prayers to Almighty God, in the name of Jeſus Chriſt his only Son, for Spiri<g ref="char:EOLhyphen"/>tual and Temporal Bleſſings; and this is the practice of the <hi>Proteſtant Diſſen<g ref="char:EOLhyphen"/>ters</hi> in their Meetings; and the Church of <hi>England</hi> doth uſe Extempory Pray<g ref="char:EOLhyphen"/>ers as well as the <hi>Diſſenters.</hi> 2 The Church of <hi>England</hi> in the exerciſe of Re<g ref="char:EOLhyphen"/>ligion, does give Thanks to God for Mercies Received, and ſo do the <hi>Proteſt<g ref="char:EOLhyphen"/>ant Diſſenters</hi> in their Meetings. 3. The Church of <hi>England</hi> does inſtruct Souls from the Holy Scriptures, <hi>viz.</hi> From the Law of <hi>M<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſes,</hi> from the Prophets; and from the Epiſtles and Goſpels, and this is the practice of the <hi>Proteſtant Diſſenters</hi> in their Meetings, for which they are Proſecuted. 4. The exerciſe of Religion in the Church of <hi>England</hi> is performed in <hi>Engliſh,</hi> and ſo it is a<g ref="char:EOLhyphen"/>mong the <hi>Proteſtant Diſſenters,</hi> that all perſons may hear and underſtand what they ſay. 5. The Church of <hi>England</hi> doth not allow praying to the Virgin <hi>Mary,</hi> nor prayers for Souls in Purgatory, but denies a Purgatory; they allow but of two Sacraments, <hi>viz.</hi> Baptiſm and the Lords Sapper, they alſo allow the Cup as well as the Bread to the Lay-people in Remembring the Death of their Redeemer; theſe things are the principles and practice of the <hi>Proteſtant Diſſenters.</hi> 6. The Church of <hi>England</hi> hath declared in her Articles of Re<g ref="char:EOLhyphen"/>ligion, that the viſible Church of Chriſt is a company of faithful men in which the pure Word of God is Preached, and the Sacraments be duly miniſtred, ac<g ref="char:EOLhyphen"/>cording to Chriſts Ordinance in all thoſe things that of neceſſity are requiſite to the ſame, ſee Article 19. The <hi>Proteſtant Diſſenters</hi> profeſs and declare the very ſame Principle. 7. The Church of England declareth, that it is not law<g ref="char:EOLhyphen"/>ful for the Church to Ordain any thing that is contrary to Gods Word writ<g ref="char:EOLhyphen"/>ten, neither may it ſo expound one place of Scripture repugnant to another, ſee Article 20. This is alſo ſolemnly Proſeſſed by the <hi>Proteſtant Diſſenters.</hi>
+            </p>
+            <p>
+               <hi>Obſerv.</hi> 4. That if any <hi>Diſſenters</hi> ſhould have the Liturgy of the Church of <hi>England,</hi> and read it all over in their, Meetings, and ſhould mingle Sedition with, or contrive Inſurrections againſt the Government, that Service-Book would not ſave them from the puniſhments provided in the aforeſaid Act, be<g ref="char:EOLhyphen"/>cauſe then they would be Seditious Conventicles, not withſtanding the Serv<gap reason="illegible" resp="#APEX" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>-Book.</p>
+            <p>
+               <hi>Obſerv.</hi> 5. That ſuch as really and viſibly perform the exerciſe of Relig<gap reason="illegible" resp="#APEX" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> in praying to God, praiſing of God, Hearing and Preaching the Word God, ought not to be puniſhed by the aforeſaid Act, for as much as the<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> things are according to the Liturgy and practice of the Church of <hi>England.</hi>
+            </p>
+            <p>Fourth particular to be conſidered in the aforeſaid Act, is, The manner way of proceedings againſt the Offenders mentioned in the ſaid Act, <hi>vi<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:punc">▪</g>
+               </hi>
+               <pb n="6" facs="tcp:43571:4"/>
+any Juſtice of Peace or chief Magiſtrate where ſuch Offence aforeſaid ſhall be Committed, are required and injoyned upon Oath of two Witneſſes, or the Confeſſion of the Party, or Notorious Evidence of the Fact, to make Record of every ſuch Offence under his Hand and Seal, which ſhall be in Law taken and adjudged to be a full and perfect Conviction; and thereupon the ſaid Ju<g ref="char:EOLhyphen"/>ſtice or Magiſtrate ſhall impoſe on every ſuch Offender ſo Convict, as afore<g ref="char:EOLhyphen"/>ſaid, the Fine of Five Shillings for ſuch firſt Offence; which Record and Con<g ref="char:EOLhyphen"/>viction ſhall be certified by the ſaid Juſtice, or chief Magiſtrate at the next Quarter-Seſſions of the Peace, for the County or Place where the Offence was committed. From this part of the Act, obſerve theſe things:</p>
+            <p>
+               <hi>Obſerv.</hi> 1. That Juſtices or chief Magiſtrates are not bound to make it their own buſineſs to hunt after ſuch Coventicles, but if proof be made to them of ſuch Meetings, then they are impowred and required to convict ſuch Offen<g ref="char:EOLhyphen"/>ders.</p>
+            <p>
+               <hi>Obſerv.</hi> 2. That one way or another, ſubſtantial Proof muſt be made of the Offence and Offenders, <hi>viz.</hi> either Confeſſion of the Party, or Oath of two Witneſſes, or Notorious Evidence and Circumſtance of the Fact. Now theſe words, <hi>Notorious Evidence and Circumſtance of the Fact,</hi> muſt be ſome thing or things that are equivalent with Confeſſion of the Party, or Oath of Witneſſes. It is not every Juſtice or Conſtable thinking, ſuppoſing, or dream<g ref="char:EOLhyphen"/>ing that there are ſuch Meetings, but it muſt be Notorious Evidence of the Fact.</p>
+            <p>
+               <hi>Obſerv.</hi> 3. That though a Juſtice may Convict and Fine the Sum of Five Shillings for the firſt Offence, yet here is no direction given to make Diſtreſs and Sale of the Offenders Goods and Chattels for the firſt Offence, but a Re<g ref="char:EOLhyphen"/>cord muſt be made of the Offence and Offender, and certified to the next Quarter Seſſions.</p>
+            <p>Fifth Particular to be conſidered, is, The Offenders repeating the Offence. <hi>And if ſuch Offender ſhall again commit the like Offence, and be thereof Convict as in manner aforeſaid, then he ſhall be Fined the Sum of Ten Shillings, which Fine and Fines for the firſt and every ſuch Offence, ſhall be levied by Diſtreſs, and Sale of the Offenders Goods. And in caſe of the Poverty of the ſaid Of<g ref="char:EOLhyphen"/>fender, upon the Goods and Chattels of any other Offender who ſhall be then Convict in manner aforeſaid, ſo as the Sum do not amount to ab<gap reason="illegible" resp="#APEX" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> the Sum of Ten pounds.</hi> From hence obſerve theſe things:</p>
+            <p>
+               <hi>Obſerv.</hi> 1. That upon the ſecond Offence, a Diſtreſs may be made upon the Offenders Goods and Chattels, for the firſt as well as for the ſecond Of<g ref="char:EOLhyphen"/>fence.</p>
+            <p>
+               <hi>Obſerv.</hi> 2. That it is ſomewhat ſtrange, That one Man ſhould ſuffer for the Fault of another; yea, one Man for the Faults of a great many.</p>
+            <p>
+               <hi>Obſerv.</hi> 3. That Juſtices had need be careful that there is ſo many Per<g ref="char:EOLhyphen"/>ſons Convict, whoſe Five or Ten Shillings doth amount to the Sum of Ten
+<pb n="7" facs="tcp:43571:4"/>
+Pounds, if they levy the Sum of Ten Pounds upon any one Man for the de<g ref="char:EOLhyphen"/>fault of others, and that they be ſure ſuch are not able to pay their Five or Ten Shillings Fines.</p>
+            <p>Sixth Particular to be conſidered. It is alſo provided by the aforeſaid Act, <hi>That ſuch Officers as go to make Diſtreſs upon the Goods and Chattels of the Of<g ref="char:EOLhyphen"/>fenders; ſhall have a Warrant under the Hands and Seals of ſome Justice of the Peace, or Chief Magiſtrate ſo to do, and the money levied to be forthwith deli<g ref="char:EOLhyphen"/>vered to the ſame Juſtice or Chief Magiſtrate, and ſo by them to be diſtributed one third part to the uſe of the King, the other third part to the Poor of the Pa<g ref="char:EOLhyphen"/>riſh, and the other third part to the Informers, and to ſuch perſons as the ſaid Juſtice of Peace ſhall appoint, having regard to their diligence and induſtry in diſcovering and diſperſing, and puniſhing ſuch Conventicles.</hi> From hence obſerve theſe things:</p>
+            <p>
+               <hi>Obſerv.</hi> 1. That though Perſons be Convict, yet Conſtables have no power to make Diſtreſs upon any mans Goods, without a Warrant under the Hand and Seal of ſome Juſtice of the Peace, or Chief Magiſtrate.</p>
+            <p>
+               <hi>Obſerv.</hi> 2. That when Conſtables have a Warrant to make Diſtreſs, this Act doth not impower them to break open any mans door, that ſo they may take away his Goods; neither doth it require them to lurk about Mens hou<g ref="char:EOLhyphen"/>ſes, to find opportunity that they may ſurprize Mens houſes, and therefore they being Officers of the Peace, ought to depart in Peace.</p>
+            <p>
+               <hi>Obſerv.</hi> 3. That ſuch Officers muſt be ſure that when they make Diſtreſs, it be upon the Offenders own Goods, and not the Goods of other men, which may be in the Offenders hands, leſt they meet with ſuch trouble as they may not eaſily defend by Law.</p>
+            <p>
+               <hi>Obſerv.</hi> 4. That the third part of ſuch Fines may be given to the diligent Aſſiſters, as well as to the Informers; ſo that the Informers may have but poor wages, if the Juſtices ſhould appoint any other perſons to be helpful in the ſame work, and the third part of Fines diſtributed as aforeſaid.</p>
+            <p>Seventh particular to be conſidered in the aforeſaid Act, is, The penalty of every perſon who ſhall take upon him to Preach or Teach in any ſuch Mee<g ref="char:EOLhyphen"/>tings, Aſſembly or Conventicle, and be Convicted as aforeſaid: Shall for<g ref="char:EOLhyphen"/>feit for every ſuch firſt Offence, the Sum of Twenty Pounds; and if ſuch Offen<g ref="char:EOLhyphen"/>der, ſhall at any time again Commit the like Offence, and be Convicted there<g ref="char:EOLhyphen"/>of in manner aforeſaid, ſhall incur the Penalty of Forty Pounds, to be levyed and diſpoſed as aforeſaid, and his name and Habitation not known, or is fled and cannot be found, or in the judgment of the Juſtice or chief Magiſtrate thought unable to pay, then they may levy the ſame by Warrant upon the Goods and Chattels of any ſuch perſons, who ſhall be preſent at the ſame Conventicle.</p>
+            <p>From hence Obſerve,</p>
+            <p>
+               <hi>Obſerv.</hi> 1. That to Preach or Teach in any Meeting, is not a Crime to be
+<pb n="8" facs="tcp:43571:5"/>
+puniſhed by this Act; But to Preach or Teach, in any ſuch Meetings, Aſſem<g ref="char:EOLhyphen"/>bly or Conventicle; which words<g ref="char:punc">▪</g> 
+               <hi>ſuch Meetings,</hi> is to be referred to what is aforeſaid, <hi>viz.</hi> A Seditious Meeting, and that contriveth Inſurrections, and ſo it muſt be underſtood of Preaching Seditious Doctrine, and fomenting or promoting Inſurrections againſt His Majeſties Government, and Preaching ſuch things as are not at all conſiſtent with the Doctrine of the Church of <hi>En<g ref="char:EOLhyphen"/>gland.</hi>
+            </p>
+            <p>
+               <hi>Obſerv.</hi> 2. That ſuch as meet peaceably together without doing any harm to the Perſons of His Majeſties Subjects, and whoſe Preachers Teach Repen<g ref="char:EOLhyphen"/>tance for Sin, Faith in Chriſt, the fear of God, and honouring the King ſuita<g ref="char:EOLhyphen"/>ble to a right fearing of God, and love to their Neighbours, ought not to be Proſecuted or puniſhed by this Act, for as much as this Doctrine is according to the Doctrine of the Church of <hi>England.</hi>
+            </p>
+            <p>Eight particular to be conſidered, is the penalty of thoſe that admit and entertain wittingly and willingly ſuch Meetings or unlawful Aſſemblies afore<g ref="char:EOLhyphen"/>ſaid in his or her houſe, out-houſe, Barn, Yard, or backſide, ſhall forfeit the Sum of Twenty Pounds, to be levyed in manner aforeſaid, and in caſe of Po<g ref="char:EOLhyphen"/>verty of the Perſon, then to be levyed upon the Goods and Chattels of ſuch Perſons as ſhall be Convicted of being preſent at the ſame Conventicle.</p>
+            <p>From hence obſerve,</p>
+            <p>
+               <hi>Obſerv.</hi> 1. That ſuch only are Offenders by this Act, as admit and enter<g ref="char:EOLhyphen"/>tain ſuch<g ref="char:punc">▪</g> unlawful<g ref="char:punc">▪</g> Aſſemblies as aforeſaid, <hi>viz.</hi> Seditious, and Contriving Inſurrections<g ref="char:punc">▪</g>
+            </p>
+            <p>
+               <hi>Obſerv.</hi> 2. That but one Twenty Pounds as a penalty or forfeit, is menti<g ref="char:EOLhyphen"/>oned for the wittingly ſuffering ſuch a Meeting, it is not ſaid Twenty Pounds for the firſt Offence; and if they ſhall again commit the like Offence, then the ſame, or a greater Sum they ſhall forfeit for every ſuch Offence, as it is expreſ<g ref="char:EOLhyphen"/>ſed in the Hearer or Preacher's Offence.</p>
+            <p>Ninth Particular to be conſidered, <hi>Provided alſo, That in all Caſes of this Act, where the Penalty ſhall exceed the Sum of Ten Shillings, and ſuch Offender ſhall find himſelf agrieved, it ſhall and may be lawful for him within one week after the Penalty ſhall be paid or levied, to appeal in writing from the Juſtice con<g ref="char:EOLhyphen"/>victing, to the judgment of the Juſtices of the Peace in their next Quarter-Seſſi<g ref="char:EOLhyphen"/>ons, whereupon ſuch Offender may plead, and make defence, and have his Tryal by a Jury thereupon, provided always, that every ſuch Appeal ſhall be left with the perſon or perſons convicting, as aforeſaid, and the Appellant to enter into Recogni<g ref="char:EOLhyphen"/>zance to proſecute with effect.</hi> From hence obſerve:</p>
+            <p>
+               <hi>Obſerv.</hi> 1. That the Law-makers did fore-ſee, and were apprehenſive of ſome damage and injury that might ſometimes happen to ſome of His Majeſties Subjects, by the ill proſecution of this Act, through a miſunder<g ref="char:EOLhyphen"/>ſtanding thereof by the Proſecutors.</p>
+            <p>
+               <hi>Obſerv.</hi> 2. That the beſt and moſt legal way to determine Offenceſt
+<pb n="9" facs="tcp:43571:5"/>
+againſt the Law in matters between the King and the Subject, and between Man and Man, is by Juries of wiſe and honeſt Men; and therefore the King and Parliament by this Act, hath not given the whole and ſole determining of the Caſes therein contained, to any Juſtice of Peace, or Chief Magiſtrate.</p>
+            <p>Tenth Particular to be conſidered, <hi>It is further provided by the Authority aforeſaid, That Juſtices of the Peace, and Chief Magiſtrates reſpectively, or the Conſtables, Head-Boroughs, and Tything-Men, by Warrant from the ſaid Juſti<g ref="char:EOLhyphen"/>ces, or Chief Magiſtrate reſpectively, ſhall and may take with them ſuch Aid and Force as they ſhall think fit, to break open and enter any Houſe, or other place, after Refuſal, or Denial. And that the Lieutenants, or Deputy-Lieutenants, or any Commiſſionated Officer of the Militia, or other of His Majeſties Forces off Horſe and Foot, and alſo the Sheriffs, and other Magiſtrates and Miniſters o Juſtice, or any of them jointly or ſeverally, on Certificate made to them reſpectively under the Hand and Seal of any one Juſtice of the Peace, or Chief Magiſtrate, of his particular Information, or knowledge of ſuch unlawful Meeting or Conventicle held, or to be held, ſhall, by the beſt means they can, diſſolve, diſſipate, or prevent all ſuch unlawful Meetings, and take into their Cuſtody ſuch Perſons as they ſhall think fit, to the intent they may be proceeded againſt according to this Act.</hi> From hence obſerve:</p>
+            <p>
+               <hi>Obſerv.</hi> 1. That Conſtables and other Officers are not bound nor requi<g ref="char:EOLhyphen"/>red to go to ſuch Meetings, without Warrants from ſome Juſtice or Chief Ma<g ref="char:EOLhyphen"/>giſtrate.</p>
+            <p>
+               <hi>Obſerv.</hi> 2. That the AID and FORCE to aſſiſt them, are not to be im<g ref="char:EOLhyphen"/>poſed upon them, but ſuch as are called and choſen by them, as they ſhall think fit.</p>
+            <p>
+               <hi>Obſerv.</hi> 3. That Officers have no power to make a FORCIBLE ENTRY into any houſe or place, without firſt a DENIAL or REFUSAL of En<g ref="char:EOLhyphen"/>trance, which therefore ought firſt to be fairly demanded.</p>
+            <p>
+               <hi>Obſerv.</hi> 4. That the Officers muſt firſt be ſure that it is ſuch a Meeting or Conventicle as is aforeſaid, <hi>viz.</hi> Seditious, and that contriveth Inſurrecti<g ref="char:EOLhyphen"/>ons.</p>
+            <p>
+               <hi>Obſerv.</hi> 5. That whereas Lieutenants, Deputy-Lieutenants, Sheriffs, Commiſſionated Officers of the Militia, and other His Majeſties Forces of Horſe and Foot, and other Magiſtrates jointly or ſeverally are mentioned to aſſiſt in this work of preventing and ſuppreſſing ſuch Meetings, they are not to run in this work of their own ACCORD, but he called thereunto by CER<g ref="char:EOLhyphen"/>TIFICATE, under the Hands and Seals of ſome Juſtice or Chief Magiſtrate.</p>
+            <p>
+               <hi>Obſerv.</hi> 6. That ſuch Certificate muſt proceed from ſome particular In<g ref="char:EOLhyphen"/>formation given to ſuch Juſtice, or from his own certain knowledge of ſuch Meetings held, or to be held, that ſo the Countrey may not be put to trouble, and His Majeſties Subjects amazed without juſt cauſe.</p>
+            <p>
+               <hi>Obſerv.</hi> 7. Magiſtrates, and other Officers, had need remember and con<g ref="char:EOLhyphen"/>ſider,
+<pb n="10" facs="tcp:43571:6"/>
+that there is an Act of Parliament ſince this againſt Conventicles, which forbiddeth the Execution of any Writ, Warrant, Proceſs, Order, Judgment or Decree, upon the LORDS-DAY, except in Caſes of Treaſon, Felony, or Breach of the Peace.</p>
+            <p>If any ſhall preſume to ſay, That the peaceable Meetings of Proteſtant Diſſenters, (who ſpend their time in praying to the God of Peace, for the Peace of their own Souls, and the Peace of the Realm, and that Preach the Goſpel of Peace, whereby the beſt Peace is maintained in Families, Cities and Kingdoms) is a Breach of the Publick Peace of this Kingdom, it may be ſafely concluded, that ſuch Men do not well underſtand God's Law, nor the King's Law.</p>
+            <p>Eleventh Particular to be conſidered, is the Proſecution of the aforeſaid Act againſt a Peer of this Realm who is an Offender; <hi>Provided, That no Peer of this Realm ſhall have his Houſe ſearched, where he or his Wife ſhall be then Reſident, but by immediate Warrant from His Majeſty under His Sign Manual, or in the preſence of the Lieutenant, or Deputy-Lieutenant, or two Juſtices of the Peace, whereof one to be of the</hi> Quorum, <hi>of the ſame County or Riding.</hi>
+            </p>
+            <p>
+               <hi>Obſerv.</hi> This part of the Act ſheweth the difference between the proſe<g ref="char:EOLhyphen"/>cuting of a Peer, and a Commoner. A Peers Houſe cannot be ſearched with<g ref="char:EOLhyphen"/>out an immediate Warrant from the King, or the preſence of the Lieutenant, or Deputy-Lieutenant, or two Juſtices of the Peace, whereof one to be of the <hi>Quorum,</hi> and no mention made of breaking open of a Peers doors; but a Commoner may have his doors broke open by Conſtables, if they have a Warrant from one Juſtice of the Peace, and be denied Entrance, they know<g ref="char:EOLhyphen"/>ing there is ſuch a Conventicle, as aforeſaid.</p>
+            <p>Twelfth Particular to be conſidered, is the default of Conſtables, and other Officers; <hi>That if any Conſtable, Head-Borough, Tything-Man, Church-Warden or Over-Seer of the Poor, who ſhall know, or be credibly informed of any ſuch Meetings or Conventicles held wiehin his Precincts, Pariſh or Limits, and ſhall not give Information thereof to ſome Juſtice of the Peace, or Chief Magiſtrate, and endeavor the Conviction of the Parties; or if any perſon lawfully called in Aid of the aforeſaid Officers, ſhall wilfully and wittingly omit the performance of his Duty, in the Execution of this Act, and be thereof Convict, in manner afore<g ref="char:EOLhyphen"/>ſaid, ſhall forfeit for every ſuch Offence the Sum of Five Pounds, to be levied up<g ref="char:EOLhyphen"/>on his Goods and Chattels, as aforeſaid.</hi> From this part of the Act obſerve theſe things:</p>
+            <p>
+               <hi>Obſerv.</hi> 1. That Conſtables and other Officers, are to have CERTAIN KNOWLEDGE of ſuch Meetings, before they proceed to proſecute this Law againſt them.</p>
+            <p>
+               <hi>Obſerv.</hi> 2. That this knowledge muſt be ſuch, as may reach to the Con<g ref="char:EOLhyphen"/>viction of the Offender; and therefore they muſt SO know, as they may be able to SWEAR matter of Fact expreſſed in this Act.</p>
+            <p>
+               <pb n="11" facs="tcp:43571:6"/>
+               <hi>Obſerv.</hi> 3. That they cannot SO know of the aforeſaid Meetings, with out they be <hi>preſent</hi> there, and take notice who it is that Preacheth, and the matter that is Preached, whether it be Seditious, and promoteth Inſur<g ref="char:EOLhyphen"/>rections.</p>
+            <p>
+               <hi>Obſerv.</hi> 4. That this Act doth not require the aforeſaid Officers to make it their Buſineſs, to ſeek out and hunt after ſuch Meetings, ſo as to neglect their own being at Church to hear the Word of God, for the welfare of their own Souls.</p>
+            <p>
+               <hi>Obſerv.</hi> 5. For want of knowledg the Officers are required to proceed up<g ref="char:EOLhyphen"/>on credible Information, not every or any kind of Information, but <hi>credible</hi> Information, and that is, ſuch as this Act Requireth, <hi>viz.</hi> The Oath of two Witneſſes before a Juſtice of the Peace or chief Magiſtrate.</p>
+            <p>
+               <hi>Obſerv.</hi> 6. That if after all this, the aforeſaid Officers ſhall willingly and wittingly omit their Duty and be convict, as in manner aforeſaid, then they ſhall forfeit for every ſuch Offence, the Sum of Five Pound, to be levyed upon their Goods and Chattels, and diſpoſed of in manner aforeſaid.</p>
+            <p>
+               <hi>Obſerv.</hi> 7. That the Officers muſt be Convict of their Offence as afore<g ref="char:EOLhyphen"/>ſaid, and that is by the Oath of two Witneſſes.</p>
+            <p>Thirteenth particular to be conſidered, is the fault and puniſhment mentio<g ref="char:EOLhyphen"/>ned in this Act of the Juſtices or Chief Magiſtrate, <hi>If they ſhall wilfully and wittingly omit their Duty in the Execution of this Act, then the Juſtices or Chief Magiſtrate ſhall forfeit the Sum of one hundred Pounds; the one moity to the uſe of the Kings Majeſty, the other moity to the uſe of the Informer, to be Recovered by Action, Suit, Bill, or Plaint, in any of His Majeſties Courts at Weſtminſter.</hi>
+            </p>
+            <p>From hence Obſerve,</p>
+            <p>
+               <hi>Obſerv.</hi> 1. That but one hundred Pound is mentioned as the forfeit of a Juſtice or Chief Magiſtrate, it is not ſaid <hi>for every ſuch Offence</hi> or if at any time ſuch Juſtice ſhall again Commit the like Offence, he ſhall forfeit one hun<g ref="char:EOLhyphen"/>dred Pounds, as it is expreſſed in the Offences of the Meeters and Officers.</p>
+            <p>
+               <hi>Obſerv.</hi> 2. That the ſaid one hundred Pounds is not to be levyed upon the Goods and Chattels of the ſaid Juſtice of Peace or Chief Magiſtrate; but it muſt be Recovered by Action, Suit, Bill, or Plaint, in any of His Majeſties Courts at <hi>Weſtminſter;</hi> where ſuch Juſtice or Chief Magiſtrate thus infor<g ref="char:EOLhyphen"/>med againſt, and Proſecuted, will have the great Benefit of a Company of their fellow Subjects called good men and true, <hi>viz.</hi> A Jury, to hear and Deter<g ref="char:EOLhyphen"/>mine the whole matter, who will without doubt inquire whether the Meetings informed againſt were for godly Inſtruction, or whether they were Seditious Conventicles to contrive Inſurrections, or ſuch Meetings as are inconſiſtent with the practice of the Church of <hi>England.</hi>
+            </p>
+            <p>
+               <hi>Obſerv.</hi> 3. That if upon proof of ſuch Meetings, the one hundred Pounds be Recovered, then it is to be divided between the King and the Informer.</p>
+            <p>
+               <hi>Obſerv.</hi> 4. That the poor of the Pariſh is quite ſhut out from having any
+<pb n="12" facs="tcp:43571:7"/>
+Benefit of the ſaid hundred Pounds. But let us now proceed to the</p>
+            <p>Fourtenth particular to be conſidered in this Act, <hi>That if any perſon be ſu<g ref="char:EOLhyphen"/>ed for putting in Execution any of the powers contained in this Act, otherwiſe then upon Appeal allowed by this Act, ſuch perſon ſhall plead the General Iſſue, and give the ſpecial matter in Evidence; and if the Plantiff be Non-Suit, or a Verdict paſs for the Defendant, or if the Plantiff diſcontinue his Action; or if upon Demurrer judgment be given for the Defendant, every ſuch Defendant ſhall have his full <gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e<g ref="char:EOLhyphen"/>ble coſts.</hi> From this part of the Act, obſerve theſe things:</p>
+            <p>
+               <hi>Obſerv.</hi> 1. That ſuch as put in Execution the powers contained in this Act, may be ſued for the ſame otherwiſe then by Appeal allowed by this Act, <hi>viz.</hi> by other Laws.</p>
+            <p>
+               <hi>Obſerv.</hi> 2. That ſuch perſon ſo ſued, may plead the general iſſue, and give the ſpecial matter in Evidence, and that is the particular Crimes expreſſed in this Act, <hi>viz. Seditious Conventicles Contriving Inſurrections.</hi>
+            </p>
+            <p>
+               <hi>Obſerv.</hi> 3. If the Plantiff be <hi>Non-ſuit,</hi> or diſcontinue his Action, or if a Verdict paſs for the Defendant, or upon Demurrer judgment be given for the Defendant, every ſuch Defendant ſhall have his treble coſts.</p>
+            <p>
+               <hi>Obſerv.</hi> 4. That ſuch as will venture a Tryal at Law with the <hi>Diſſenting Pro<g ref="char:EOLhyphen"/>teſtants</hi> as the Tranſgreſſors of this Act, in hopes to have treble coſts, may meet with a great diſappointment, if there be a wiſe and honeſt Jury, who underſtand Law and good Reaſon.</p>
+            <p>Fifteenth particular to be conſidered in the aforeſaid Act; <hi>That all Clauſes therein Contained, ſhall be conſtrued moſt largly and beneficially for the ſuppreſſing of Conventicles, and for the encouragement of all perſons to be imployed in the Ex<g ref="char:EOLhyphen"/>ecution thereof.</hi>
+            </p>
+            <p>From hence obſerve theſe things:</p>
+            <p>
+               <hi>Obſerv.</hi> 1. That theſe large expreſſions are not a licence to commit vio<g ref="char:EOLhyphen"/>lence either upon the Perſons or the Goods of any of His Majeſties Subjects contrary to other Laws, eſpecially that Law called <hi>Magna Charta.</hi>
+            </p>
+            <p>
+               <hi>Obſerv.</hi> 2. That if any perſons under pretence of Proſecuting this Act, ſhould commit violence, <hi>viz.</hi> ſhould Wound or Beat any of His Majeſties peaceable Subjects, may be Indicted for a Riot; or if they ſhould kill any of them, ſuch Proſecutors may be Indicted for Murder; or if they ſhould vio<g ref="char:EOLhyphen"/>lently Break open mens Houſes to force away their Goods, ſuch may be In<g ref="char:EOLhyphen"/>dicted of Fellony, notwithſtanding the large and beneficial conſtruing of the aforeſaid Act.</p>
+            <p>
+               <hi>Obſerv.</hi> 3. The beſt way to eſcape harm, is not to do harm; and therefore the Proſecutors of this and another Laws, had need take heed that they do not run upon ſtrange Interpretations, but act according to the plain expreſſions in the Law.</p>
+            <p>Sixteenth particular to be conſidered; <hi>That in caſe any perſon offending a<g ref="char:EOLhyphen"/>gainſt this</hi> Act, <hi>ſhall be an inhabitant in any other. County or Corporation, or fly in<g ref="char:EOLhyphen"/>to
+<pb n="13" facs="tcp:43571:7"/>
+any other County or Corporation, after the Offence Committed, The Juſtice or Chief-Magiſtrate that Convicted the aforeſaid perſon, ſhall Certifie the ſame un<g ref="char:EOLhyphen"/>der his Hand and Seal, to any Juſtice or Chief Magiſtrate of ſuch other County or Corporation; which ſaid Juſtice or Chief Magiſtrate is hereby Authorized and required to levy the Penalty or Penalties in this Act mentioned.</hi>
+            </p>
+            <p>From hence it doth plainly appear, that though an Offender be an Inhabitant in ſome other County or Corporation, yet he ought to ſuffer the penalty of the Law himſelf, if he be able, and can be found, and therefore a Juſtice or chief Magiſtrate ought not to levy ſuch an ones Fines upon any other per<g ref="char:EOLhyphen"/>ſons.</p>
+            <p>Seventeenth particular to be conſidered; <hi>That no perſon ſhall be puniſhed for any Offence againſt this Act, unleſs ſuch an Offender be Proſecuted for the ſame within three months after the Offence Committed, and that no perſon who ſhall be puniſhed for any Offences by vertue of this Act, ſhall be puniſhed for the ſame Of<g ref="char:EOLhyphen"/>fence by vertue of any other Act or Law whatſoever.</hi>
+            </p>
+            <p>From hence Obſerve,</p>
+            <p>
+               <hi>Obſerv.</hi> 1. That no Offender of this Act can be Proſecuted by this Act after three months, from the time of the Offence Committed.</p>
+            <p>
+               <hi>Obſerv.</hi> 2. This Act ſuppoſeth there be other Laws againſt the ſame Offences mentioned in this Act.</p>
+            <p>
+               <hi>Obſerv.</hi> 3. That ſuch as are puniſhed by this Law for the Offences therein mentioned, are freed from the puniſhments provided by other Laws for ſuch Offences.</p>
+            <p>Eighteenth particular to be conſidered; <hi>That every Alderman of</hi> London <hi>ſhall have the ſame power and authority within</hi> London, <hi>and the Liberties thereof, (for the examining convicting and puniſhing of all Offences within this Act Com<g ref="char:EOLhyphen"/>mitted within</hi> London <hi>which any Juſtice of Peace hath by this Act in any Coun<g ref="char:EOLhyphen"/>ty of</hi> England, <hi>and ſhall be ſubject to the penalties and puniſhments for not do<g ref="char:EOLhyphen"/>ing that which by this Act is directed to be done by any Juſtice of Peace in</hi> England.</p>
+            <p>
+               <hi>Obſerv.</hi> 1. That every Alderman of <hi>London,</hi> whether paſt the Chair or not, is empowered by this Act to act as a Juſtice of the Peace, in Examining, Convicting, and Punniſhing all Offences againſt this <hi>Act,</hi> committed within <hi>London.</hi>
+            </p>
+            <p>
+               <hi>Obſerv.</hi> 2. That foraſmuch as all the Aldermen of the City of <hi>London</hi> are not Juſtices of the peace, ſo as to act in all Caſes of the Laws in general, there<g ref="char:EOLhyphen"/>fore he that hath only a power to act by this Law, had need take the greater care, that he do not Act, contrary to the Rules<g ref="char:punc">▪</g> and Directions, plainly Ex<g ref="char:EOLhyphen"/>preſſed in the aforeſaid Act, <hi>viz.</hi> That he doth not proſecute <hi>godly</hi> meetings<g ref="char:punc">▪</g> inſtead of <hi>Seditious</hi> meetings: nor proſecute quiet and peaceable meetings, as if they were contrivers of inſurrections.</p>
+            <p>Ninteenth particular to be conſidered, in the aforeſaid Act <hi>That if a Feme<g ref="char:EOLhyphen"/>covert, cohabiting with her husband be the offender, and be eonvict as afore ſaid
+<pb n="14" facs="tcp:43571:8"/>
+the penalties of Five and Ten ſhillings, ſhall be levied upon the Goods and Chattles of the Husband.</hi>
+            </p>
+            <p>
+               <hi>Obſerv.</hi> That no higher then Ten ſhillings fine, can be impoſed upon a wife living with her husband, the ſum of Ten Pounds cannot be impoſed and levied upon the Husbands goods and Chattles for the offence of other per<g ref="char:EOLhyphen"/>ſons.</p>
+            <p>Twentieth particular. <hi>Provided that no Peer of this Realm ſhall be attached or impriſoned by vertue or force of this Act.</hi>
+            </p>
+            <p>
+               <hi>Obſerv.</hi> This is ſome kind of favour to the perſon of a Peer, more then to the perſon of a Commoner, as is alſo Extended to the houſe of a Peer, in ano<g ref="char:EOLhyphen"/>ther part of this Act.</p>
+            <p>One and twentieth particular to be conſidered, <hi>That neither this Act, nor any thing contained therein, ſhall Extend to invalidate or avoid his Majeſties Supre<g ref="char:EOLhyphen"/>macy in Eccleſiaſtical Affairs.</hi>
+            </p>
+            <p>
+               <hi>Obſerv.</hi> From hence it doth appear, that the Lords and Commons aſſembled in Parliament, were very careful to preſerve the Supremacy or Power of his Majeſty in Eccleſiaſticall affairs, and therefore none ought to improve, ſtretch, or ſtrain any Expreſſions in this Act, ſo as to intrench upon that Power of the King, as may be more fully underſtood in the following and concluding words of this Act.</p>
+            <p>Two and twentieth particular. <hi>But that His Majeſty and his Heirs and Suc<g ref="char:EOLhyphen"/>ceſſours, may from time to time, at all times hereafter, Exerciſe and Enjoy all Powers and Authorities, in Eccleſiaſtical affairs, as fully and as amply as him<g ref="char:EOLhyphen"/>ſelf, or any of his Predeceſſours have, or might have done the ſame, any thing in this Act notwithſtanding.</hi> From hence obſerve,</p>
+            <p>
+               <hi>Obſerv.</hi> 1. That this Act doth own and allow his Majeſty hath Power and Authority in Eccleſiaſticall Affairs.</p>
+            <p>
+               <hi>Obſerv.</hi> 2. That his Majeſty may from time to time, and at all times here<g ref="char:EOLhyphen"/>after, Exerciſe this his power and authority, in Eccleſiaſticall affairs, as fully and as amply as himſelf, or any of his Predeceſſours, have or might have done. Now this power of his Majeſty, is not only a power to beſtow and confer Eccleſiaſtical Dignities and Preferments on whomſoever his Majeſty ſhall think ſit; but it is alſo a power of abating, reſtraning, or ſuſpending the ſeverity of procedings, in reſpect to matters of Conſcience, which his Majeſty, was gratiouſly pleaſed to declare, as his Royal mind, in his Declaration from <hi>Breda</hi> April 4. 14. 1660. in theſe very words, <hi>We do declare a liberty to tender Con<g ref="char:EOLhyphen"/>ſciences, and that no man ſhall be diſquieted, or called in queſtion for differences of opinion, in matters of Religion, which do not diſturb the peace of the Kingdom; and that We ſhall be ready to conſent to ſuch an Act of Parliment, as upon mature deli<g ref="char:EOLhyphen"/>beration ſhall be offered to <g ref="char:V">Ʋ</g>s, for the full grantiog that Indulgence.</hi>
+            </p>
+            <p>But beſides this Royal Promiſe of his Majeſty from <hi>Breda,</hi> and ſince the Act againſt ſeditious Conventicles hath been made, and too fiercely proſecuted
+<pb n="15" facs="tcp:43571:8"/>
+againſt the Proteſtant Diſſenters, His Majeſty was gratiouſly pleaſed, to take into his Princely compaſſionate conſideration, the ſeverities his loving ſubjects had long laboured and groaned under, and therefore did aſſert and reſolve the excerciſe of his power, in Eccleſiaſtical matters, as may be plainly ſeen in His Majeſtyes Declaration to all his loving Subjects, publiſhed by the advice of his Privy Councel, <hi>March</hi> 15: 1676. in theſe very words, <hi>page</hi> 1.</p>
+            <p>
+               <hi>But it being evident, by the ſad experience of twelve yeares, that there is very little fruit of all thoſe</hi> forceable courſes, <hi>We think Our Self obliged to make uſe of that ſupream power in Eccleſiaſtical matters, which is not only inherent in <g ref="char:V">Ʋ</g>s, but hath been declared and Recogniſed to be ſo, by ſeveral Statutes and Acts of Par<g ref="char:EOLhyphen"/>liament; and therefore We do iſſue this Our Declaration as well for the quieting the minds of Our good Subjects in theſe points, as for inviting ſtrangers in this con<g ref="char:EOLhyphen"/>juncture to come and live under us, and for the better incouragement of all to a chear<g ref="char:EOLhyphen"/>full following their Trade and Callings, from whence we hope by the bleſſing of God to have many good and happy advantages to our Government.</hi>
+            </p>
+            <p>And in page 5. of the aforeſaid Declaration the King is pleaſed to de<g ref="char:EOLhyphen"/>clare as followeth.</p>
+            <p>
+               <hi>We do in the next place declare Our will and pleaſure to be, That the Execution of all and all manner of Penal Laws in matters Eccleſiaſtical, againſt whatſoever ſort of Nonconformiſts or Recuſants, be immediately ſuſpended, and they are ſuſ<g ref="char:EOLhyphen"/>pended; and all Judges, Judges of Aſſiize and Gaol-delivery, Sheriffs, Juſtices of the peace, Mayors, Bailiffs, and other Officers whatſoever, whether Eccleſiaſtical or Ci<g ref="char:EOLhyphen"/>vil, are to take notice of it, and pay due obedience thereunto.</hi>
+            </p>
+            <p>And beſides all this, the Lords and Commons aſſembled in Parliament, did lately take into their wiſe conſideration the diſtreſſes of many of His Majeſties Proteſtant Subjects, who to their great damage had greatly ſuffered by the proſecution of the 36 <hi>Elizabeth,</hi> and had prepared a Bill to free His Ma<g ref="char:EOLhyphen"/>jeſties Proteſtant Subjects from being proſecuted by that Law; but that Bill unhappyly miſcaried, and came not to His Majeſties hand, and ſo<g ref="char:punc">▪</g> His Majeſty miſſed of the opportunity to make a great performance of what he had ſo long ago promiſed at <hi>Breda,</hi> to give his Royal Aſſent by conſent of Par<g ref="char:EOLhyphen"/>liament, to ſuch Acts as might be for relieving his Subjects of Tender con<g ref="char:EOLhyphen"/>ſcience.</p>
+            <p>Therefore to conclude, let theſe few things be ſoberly inquired into.</p>
+            <p>1. Whether the Proteſtant Diſſenters have not now as much need of liber<g ref="char:EOLhyphen"/>ty of conſcience, as when His Majeſty did promiſe it from <hi>Breda?</hi>
+            </p>
+            <p>2. Whether the granting liberty of conſcience now, will not be as much for the incouraging of ſtrangers to come under His Majeſties government, and for the quieting the minds of his Majeſties Subjects, as alſo for the en<g ref="char:EOLhyphen"/>couragement of Trade in the whole Kingdom, as when his Majeſty declared an indulgence to all ſorts of his Proteſtant Subjects in the year Seventy One?</p>
+            <p>
+               <pb n="16" facs="tcp:43571:9"/>3. Whether it is not more Feizable now, ſeeing the Lords and Commons lately aſſembled in Parliament, were willing to walk in this good path, which his Majeſty ſo long ago ſhew'd his willingneſs to lead them?</p>
+            <p>4. Whether the Succoring and Protecting of the Perſecuted <hi>French</hi> Pro<g ref="char:EOLhyphen"/>teſtants and Proſecuting of <hi>Engliſh</hi> Proteſtants, doth harmonize and agree to<g ref="char:EOLhyphen"/>gether?</p>
+            <p>5. Whether Proteſtants Perſecuting of Proteſtants in <hi>England<g ref="char:punc">▪</g>
+               </hi> 
+               <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the beſt way to convince the <hi>French</hi> Papiſts of their Sin in Perſecuting the Proteſtants in <hi>France?</hi>
+            </p>
+            <p>6. Whether the Conforming Proteſtants in <hi>England,</hi> if they <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> faith<g ref="char:EOLhyphen"/>ful to Proteſtant Principles, will not ſuffer the ſame miſeries, (<hi>vi<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> 
+               <gap reason="illegible" resp="#APEX" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>nging and Burning, as the Nonconforming-Proteſtants may) if ever <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſhould get uppermoſt in <hi>England?</hi>
+            </p>
+            <p>7. Whether it be not beſt for all ſuch as are in danger of <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> bloody Enemy, to live together, and love one another as Brethren?</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed for <hi>Richard Janeway,</hi> 1682.</p>
+            <pb facs="tcp:43571:9"/>
+         </div>
+      </back>
+   </text>
+</TEI>
